@@ -1,17 +1,22 @@
 _repo: A-Touch-of-E-Flat_51304
-_version: 0.1.0
+_version: 0.2.0
 contributor:
   illustrator:
     agent_name: Francis, Dick
     alias: Francis, Richard D.
     gutenberg_agent_id: '33940'
     url: http://www.gutenberg.org/2009/agents/33940
+covers:
+- cover_type: archival
+  image_path: 51304-h/images/cover.jpg
 creator:
   author:
     agent_name: Gibson, Joe
     gutenberg_agent_id: '45494'
     url: http://www.gutenberg.org/2009/agents/45494
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/51304#A-Touch-of-E-Flat
 gutenberg_bookshelf: Science Fiction
 gutenberg_issued: '2016-02-26'
 gutenberg_type: Text
