@@ -1,0 +1,32 @@
+_repo: A-Touch-of-E-Flat_51304
+_version: 0.0.1
+contributor:
+  illustrator:
+    agent_name: Francis, Dick
+    alias: Francis, Richard D.
+    gutenberg_agent_id: '33940'
+    url: http://www.gutenberg.org/2009/agents/33940
+creator:
+  author:
+    agent_name: Gibson, Joe
+    gutenberg_agent_id: '45494'
+    url: http://www.gutenberg.org/2009/agents/45494
+description: ''
+gutenberg_bookshelf: Science Fiction
+gutenberg_issued: '2016-02-26'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '51304'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PS'
+- !lcsh 'Weapons -- Fiction'
+- !lcsh 'Short stories'
+- !lcsh 'Science fiction'
+- !lcsh 'Inventors -- United States -- Fiction'
+- GITenberg
+title: A Touch of E Flat
+url: http://www.gutenberg.org/ebooks/51304
